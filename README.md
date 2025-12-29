@@ -13,7 +13,7 @@ commonly asked in technical interviews.
 - Maintain clean, well-documented solutions
 
 ## Progress
-- Solved: 0 / 75
+- Solved: 1 / 75
 
 ## Structure
 Problems are organized by pattern:
